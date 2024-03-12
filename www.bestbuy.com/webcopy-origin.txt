@@ -1,0 +1,48 @@
+Uri: https://assets.bbystatic.com/analytics-dotcom/analyticsInit-f7791796aa580255fd28610903e3089e.js
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\analytics-dotcom\analyticsInit-f7791796aa580255fd28610903e3089e.js
+Content Type: application/x-javascript
+
+Uri: https://www.bestbuy.com/site/computer-tablet-services/geek-squad-24-7-support-welcome/pcmcat748300520360.c?id=pcmcat748300520360
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\site\computer-tablet-services\geek-squad-24-7-support-welcome\pcmcat748300520360.c.html
+Content Type: text/html
+
+Uri: https://www.bestbuy.com/~assets/bby/_com/cacheable-gvp-66138ea0147dd17ecdc9dc0ac1b86344.min.js
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_com\cacheable-gvp-66138ea0147dd17ecdc9dc0ac1b86344.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.bestbuy.com/~assets/bby/_com/header-footer/images/bby_logo-a7e90594729ed2e119331378def6c97e.png
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_com\header-footer\images\bby_logo-a7e90594729ed2e119331378def6c97e.png
+Content Type: image/png
+
+Uri: https://www.bestbuy.com/~assets/bby/_com/header-footer/images/favicon-32.png
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_com\header-footer\images\favicon-32.png
+Content Type: image/png
+
+Uri: https://www.bestbuy.com/~assets/bby/_com/legacy-66138ea0147dd17ecdc9dc0ac1b86344.min.js
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_com\legacy-66138ea0147dd17ecdc9dc0ac1b86344.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.bestbuy.com/~assets/bby/_intl/landing_page/css/app.css
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_intl\landing_page\css\app.css
+Content Type: text/css
+
+Uri: https://www.bestbuy.com/~assets/bby/_intl/landing_page/images/icons/arrow.svg
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_intl\landing_page\images\icons\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bestbuy.com/~assets/bby/_intl/landing_page/images/maps/canada.svg
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_intl\landing_page\images\maps\canada.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bestbuy.com/~assets/bby/_intl/landing_page/images/maps/usa.svg
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_intl\landing_page\images\maps\usa.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bestbuy.com/~assets/bby/_intl/landing_page/js/app.min.js
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_intl\landing_page\js\app.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.bestbuy.com/~assets/bby/_intl/landing_page/js/zepto.min.js
+File Name: C:\Users\sp880\OneDrive\Documents\geek squad\www.bestbuy.com\~assets\bby\_intl\landing_page\js\zepto.min.js
+Content Type: application/x-javascript
+
